@@ -1,12 +1,11 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Alex Santos da Silva
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="san21067@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -16,69 +15,73 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected Dec 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Bachelor of Science - Business Analytics 
+- 3.9 Major GPA
 
 
-## Service and Work History
+## Work Experience
+
+### TA Assist Manager
+
+`Apr 2023 - Present`
+__Brigham Young University - Idaho__, TA Assist Manager
+
+- Supervise a team of 360 TAs at Ensign College, BYU Pathway, and BYU-Idaho, analyzing employee work hours and implementing strategies to optimize team performance
+- Managed teaching assistants' training materials on Canvas, Slack, and Microsoft Teams to meet BYU-Idaho's high standards, which lead to exceptional academic performance and improved mental and spiritual growth of students
+
+
+### Wesco International, Inc
+
+`Apr 2022 - Sep 2022`
+__Wesco International, Inc__, Inside Sales Specialist
+
+- Managed intermodal supply chain logistics for international clients based in Japan, China, Korea, and Middle East using Excel spreadsheets for internal and external stakeholder management
+- Reduced delivery time by 50% by proactively tracking shipment times and updating stakeholders weekly 
+- Reduced international shipping expenses over $90,000 while improving shipping speed during global supply chain crisis
+
+`September 2020 - April 2021`
+__Apple, Inc__, Senior Customer Service Specialist 
+
+- Ranked among top 10 agents nationwide through active listening to clients, effective communication with internal engineering teams, and maintaining high problem resolution rate over 80%
+- Maintained over 85% customer satisfaction score by communicating clearly with end-users and identifying unique needs
+- Developed higher quality service standard and method by adapting to clients' needs and teaching new customer service representatives implementation strategies
+
+### Santander Bank, N.A
+
+`January 2016 - April 2017`
+__Administrative Assistant__, Real State Credit
+
+- Demonstrated exceptional administrative skills in meticulous document screening, precise contract processing, efficient notarization assistance, and seamless customer coordination, while maintaining strict confidentiality. Effectively managed a diverse portfolio of 800+ clients with exceptional organizational skills.
+- Contributed to the development of action plans and process improvements through collaborative efforts, demonstrating a commitment to continuous improvement and optimizing productivity.
+
+
+## Volunteer Experience
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__The Church of Jesus Christ of Latter-day Saints__  Japan, Tokyo
+
+- Managed service and volunteer efforts with hundreds of fellow representatives spanning 10 geographic areas to gain a more
+comprehensive understanding of local and regional culture
+- Budgeted monthly resource allocations and managed within team while increasing productivity over 10%
+- Generated new area records and directed weekly trainings to advance effectiveness and efficiency
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Additional Information
+
+`Jul-2023`
+- JP Mogan - Markets (Sales & Trading) Virtual Experience - Forage 
+
+`Apr 2023 Jul-2023`
+- JP Mogan - Asset Management Virtual Experience Program - Forage  
+
+`May-2020`                                          
+- Six Sigma Yellow Belt Certification Professional - 6SIGMAstudy 
+
+`May 2020`                                                                             
+- Scrum Fundamentals Certified (SFC) - SCRUMstudy                                                                                                  
+
 
 
 
